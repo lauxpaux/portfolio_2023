@@ -1,0 +1,33 @@
+colors: 
+
+#919191
+#EDE658
+#E5BF47
+#ffffff
+#000000
+
+about me paraprapgh:
+Welcome to my portfolio! My name is Laura, and I am a data scientist and machine learning engineer with 
+two years of experience in the field. My passion for using data to solve complex problems has led me 
+to work on a variety of projects, from natural phenomena in the ionosphere research at NASA to investigating happiness
+arount the world.
+
+As a data scientist, I have experience in data analysis, machine learning, statistical modeling, and 
+data visualization. I am proficient in Python and SQL and I have
+experience working with tools such as pandas, numpy, Scikit-Learn, matplotlib, seaborn, PostgreSQL and tensorflow.
+
+I enjoy collaborating with cross-functional teams and stakeholders to understand business needs and 
+provide data-driven solutions. I am always looking to learn and stay up-to-date with the latest 
+advancements in the field of data science.
+
+When I'm not working, I enjoy cooking, running, reading, and going to show. I also love to work on Data Chisme,
+a blog for Latinas in tech or interested in tech that I co-founded with my friend Martha.
+
+Thank you for taking the time to view my portfolio. I am excited about the opportunity to work with a 
+team that shares my passion for using data to drive decision-making and create impactful solutions. 
+If you would like to connect with me, please don't hesitate to reach out!
+
+
+
+
+

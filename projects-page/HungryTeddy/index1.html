@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feed Teddy</title>
+    <link rel="stylesheet" href="style.css" alt="stylesheet">
+    <style>
+        body {
+            /* background-color: #424141; */
+            background-color: white;
+        }
+
+        img {
+            position: absolute;
+        }
+
+        .burger {
+            width: 100;
+            height: 100;
+        }
+
+        .teddy {
+            width: 150px;
+            height: 250px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <img src="https://image.freepik.com/free-vector/burger-illustration_9845-5.jpg" alt="img1" class="burger"
+        onmouseover="teddyBurger(event.srcElement)" />
+    <img src="teddy2.png" alt="img2" class="teddy" onmouseover="teddyBurger(event.srcElement)" />
+
+    <script src="./teddy.js"></script>
+   
+</body>
+
+</html>

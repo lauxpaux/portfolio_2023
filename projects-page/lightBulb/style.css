@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+svg {
+    overflow: hidden;
+    pointer-events: all;
+    
+    display: inline-block;
+    position: absolute;
+}
+
+.bulb {
+    width: 300px;
+    height: 600px;
+    cursor: pointer;
+    margin-top: -30vh;
+}
+
+
+
+h1 {
+    font-size: 40px;
+}
