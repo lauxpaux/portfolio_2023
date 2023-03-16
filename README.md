@@ -1,2 +1,2 @@
-# portfolio_2023
-A one page portfolio of my work and accomplishments. 
+# Website Portfolio 2023
+A simple one-page portfolio using HTML, CSS, and Javascript
